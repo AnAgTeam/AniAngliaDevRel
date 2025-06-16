@@ -1,3 +1,6 @@
+> [!NOTE]
+> Репозиторий переехал. Актуальные релизы доступны [тут](https://github.com/AnAgTeam/AniAnglia)
+
 > [!WARNING]
 > Автор осуждает создание ботов
 # AniAnglia
